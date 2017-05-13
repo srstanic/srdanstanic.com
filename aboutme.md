@@ -18,3 +18,6 @@ Superpower: Transforming chaos into calm.
 
 Building things with Swift, Python and JavaScript.
 {: style="text-align: center;"}
+
+Full CV available at [LinkedIn](https://hr.linkedin.com/in/srdanstanic){:target="_blank"}.
+{: style="text-align: center;"}
