@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Srdan Stanic
+subtitle: Leader, Software Engineer, Fitness Nerd
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+10+ years of experience in software development.
+{: style="text-align: center;"}
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+6+ years of leading development teams as a team lead, a project manager, and a CTO.
+{: style="text-align: center;"}
 
-What else do you need?
+Worked on projects of different scales - government, enterprise, and startups. Specialized in mobile apps and web services.
+{: style="text-align: center;"}
 
-### my history
+Superpower: Transforming chaos into calm.
+{: style="text-align: center;"}
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Building things with Swift, Python and JavaScript.
+{: style="text-align: center;"}
