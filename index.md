@@ -19,7 +19,7 @@ And if you talk with individual team members, they might tell you that managemen
 But we can make it better!
 --------------------------
 
-Obviously, there are many challenges in the software development process and in my experience most of them are surmountable. It may take time and effort but it always pays off in the long run.
+Obviously, there are many challenges in the software development process. I have faced many of them while managing projects for [one of the finest development agencies in New York](https://clutch.co/profile/five#reviews){:target="_blank"} and leading the product team for [one of the best DIY mobile app builders](http://www.shoutem.com/){:target="_blank"} in the world. Most of these challenges are surmountable. It may take time and effort but it always pays off in the long run.
 
 If you are looking for help in making your software development team more efficient and reliable, I would love to hear about your struggles and help you overcome them.
 
@@ -35,7 +35,7 @@ Use this opportunity to schedule a free 30 minute consultation. I'm confident we
 <br>
 In the meantime, you might be interested in a talk I gave at [Webcamp Zagreb 2015](https://2015.webcampzg.org/talks/view/inside-the-mind-of-a-development-manager/){:target="_blank"}.
 
-I shared my experience transitioning from a development role to a management role and how my views on software development have changed over the years. The goal was to help developers better understand their managers and remove some of the friction from their collaboration. I also share my thoughts on what makes a great developer and what makes a great leader.
+I shared my experience transitioning from a development role to a management role and how my views on software development have changed over the years. The goal was to help developers better understand their managers and remove some of the friction from their collaboration. I also shared my thoughts on what makes a great developer and what makes a great leader.
 
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhPp6BzIko4" frameborder="0" allowfullscreen></iframe>
