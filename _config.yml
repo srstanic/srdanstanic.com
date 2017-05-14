@@ -46,13 +46,13 @@ author:
   name: Srdan Stanic
   #email: "youremail@domain.com"
   #facebook: yourname  # eg. daattali
-  #github: srstanic    # eg. daattali
+  github: srstanic    # eg. daattali
   twitter: srstanic   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: srdanstanic  # eg. daattali
   #xing: yourname      # eg. daattali
-  #stackoverflow: "517865/srđan-stanić"  # eg. "3943160/daattali"
+  stackoverflow: "517865/srđan-stanić"  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -66,11 +66,11 @@ footer-links-active:
   email: false
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: true
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
