@@ -37,8 +37,8 @@ In the meantime, you might be interested in a talk I gave at [Webcamp Zagreb 201
 
 I shared my experience transitioning from a development role to a management role and how my views on software development have changed over the years. The goal was to help developers better understand their managers and remove some of the friction from their collaboration. I also shared my thoughts on what makes a great developer and what makes a great leader.
 
-<div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhPp6BzIko4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GhPp6BzIko4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <br>
