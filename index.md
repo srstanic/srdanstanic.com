@@ -73,7 +73,7 @@ If you have any questions, or you would like to comment on my talk or any of the
   </div>
   <div class="row">
     <div class="form-group col-xs-12">
-      <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+      <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
     </div>
     <div class="form-group col-xs-12">
       <input type="submit" value="Send" class="btn btn-primary">
