@@ -59,7 +59,7 @@ I also wanted to share with you a short list of books that shaped my views on le
 {: class="book-recommendations"}
 
 <br>
-If you have any questions, or you would like to comment on my talk or any of the book recommendations, please send me an email:
+If you have any questions, or you would like to comment on my talk or any of the book recommendations, please send me a message:
 
 <form action="https://formspree.io/hello-L9cjmh3yQJ@srdanstanic.com"
       method="POST" class="form-group">
