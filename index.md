@@ -41,7 +41,25 @@ I shared my experience transitioning from a development role to a management rol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhPp6BzIko4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-If you have any questions, you can send me an email
+<br>
+I also wanted to share with you a short list of books that shaped my views on leadership and team work. Some of the ideas in these books may be far out of your or even my comfort zone. But I believe it is important to expose ourselves to new ideas and then pick and choose what feels best for our teams and organizations.
+
+#### Must read for all team members ####
+
+- [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"} by Dale Carnegie - the basics of social interactions
+- [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done){:target="_blank"} - the basics of self-organization
+- [Team Geek: A Software Developer's Guide to Working Well with Others](https://www.goodreads.com/book/show/14514115-team-geek){:target="_blank"} by Brian W. Fitzpatrick, Ben Collins-Sussman - learn to employ good and recognize bad practices of teamwork and team leadership
+{: class="book-recommendations"}
+
+#### Must read for team leads and executive roles in the organization ####
+
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around){:target="_blank"} by L. David Marquet - how to lead effectively, for managers and team leads
+- [Measuring & Managing Performance in Organizations](https://www.goodreads.com/book/show/1472259.Measuring_Managing_Performance_in_Organizations){:target="_blank"} by Robert D. Austin - learn how not to turn your performance metrics against the success of your team and the organization
+- [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://www.goodreads.com/book/show/20787425-reinventing-organizations){:target="_blank"} by Frederic Laloux, Ken Wilber - a provocative and inspiring perspective on managing modern organizations; offers a lot of techniques that you can use in your team even in a traditional hierarchy
+{: class="book-recommendations"}
+
+<br>
+If you have any questions, or you would like to comment on my talk or any of the book recommendations, please send me an email:
 
 <form action="https://formspree.io/hello-L9cjmh3yQJ@srdanstanic.com"
       method="POST" class="form-group">
