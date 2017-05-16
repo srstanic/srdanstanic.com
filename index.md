@@ -5,6 +5,7 @@ subtitle: I help businesses build efficient software development teams
 use-site-title: true
 bigimg: "/img/webcamp.jpg"
 css: "/css/index.css"
+share-img: "/img/webcamp.jpg"
 ---
 
 Software development can be difficult
