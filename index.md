@@ -48,7 +48,7 @@ I also wanted to share with you a short list of books that shaped my views on le
 #### Must read for all team members ####
 
 - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"} by Dale Carnegie - the basics of social interactions
-- [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done){:target="_blank"} - the basics of self-organization
+- [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done){:target="_blank"} by David Allen - the basics of self-organization
 - [Team Geek: A Software Developer's Guide to Working Well with Others](https://www.goodreads.com/book/show/14514115-team-geek){:target="_blank"} by Brian W. Fitzpatrick, Ben Collins-Sussman - learn to employ good and recognize bad practices of teamwork and team leadership
 {: class="book-recommendations"}
 
