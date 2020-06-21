@@ -41,6 +41,8 @@ I shared my experience transitioning from a development role to a management rol
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GhPp6BzIko4" frameborder="0" allowfullscreen></iframe>
 </div>
+(please note that the slides are unfortunately a bit out of sync in the video and lagging behind the talk)
+{: style="font-size: 75%; text-align: center; color: gray;"}
 
 <br>
 I also wanted to share with you a short list of books that shaped my views on leadership and team work. Some of the ideas in these books may be far out of your or even my comfort zone. But I believe it is important to expose ourselves to new ideas and then pick and choose what feels best for our teams and organizations.
