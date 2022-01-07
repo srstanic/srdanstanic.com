@@ -30,7 +30,7 @@ Let's make software development easy for you
 Use this opportunity to schedule a free 30 minute consultation. I'm confident we can come up with at least one actionable item for you to make the first step in the right direction.
 
 <div class="text-center">
-  <p><a href="https://calendly.com/srdan-stanic/30min" class="btn btn-primary btn-lg" target="_blank">Schedule a call with me</a></p>
+  <p><a href="https://calendly.com/srdan-stanic/easy-software-development" class="btn btn-primary btn-lg" target="_blank">Schedule a call with me</a></p>
 </div>
 
 <br>

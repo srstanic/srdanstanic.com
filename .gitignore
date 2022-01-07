@@ -1,7 +1,9 @@
 # project
 _site
+.jekyll-cache
 .sass-cache
 .vagrant
+.firebase
 
 # general
 .DS_Store
